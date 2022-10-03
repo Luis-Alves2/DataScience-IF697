@@ -16,3 +16,5 @@ Análise de perfil dos alunos das escolas públicas e privadas do Recife
 Predição de chance de derrame
 
 ### Link para download dos dados utilizados: https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
+
+### Link do vídeo de apresentação: https://drive.google.com/file/d/1gVOf2_QPIoVLmqum7Z-x5QwegkhiipRA/view?usp=sharing
